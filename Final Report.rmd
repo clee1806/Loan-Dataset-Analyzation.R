@@ -1,11 +1,11 @@
----
+----
 title: "Initial Analysis"
 author: "Albert Hutiancong Wang, Chelsea Lee, Amanda Zhang"
 date: "2023-05-25"
 output:
   pdf_document: default
   html_document: default
----
+----
 
 ## Research Introduction
 Loans offer many benefits if borrowed responsibly. They open pathways to new opportunities and growth that would have otherwise been difficult to obtain without borrowing money. They’re also vital in stimulating economic growth. However, obtaining a loan is quite difficult since applicants must meet many requirements before a lender can offer a loan. Therefore, we wonder if various social factors can influence the dollar value of a loan. We believe these social factors: single male, graduate level education, not self employed, longer loan term, and high income will increase the chances of the applicant receiving a larger loan. If there is a trend between these social factors and the given loan amount, it can help predict an applicant’s chances of receiving the loan amount they prefer. Knowing their chances can greatly help in the financial decision-making process and save time. 
